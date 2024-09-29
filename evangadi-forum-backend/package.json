@@ -1,0 +1,14 @@
+{
+  "name": "evangadi-forum",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "A forum platform for Evangadi users to discuss topics and share insights.",
+  "dependencies": {
+    "mysql2": "^3.11.3"
+  }
+}
